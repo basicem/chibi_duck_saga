@@ -1,8 +1,11 @@
+https://drive.google.com/file/d/1wDJ0J8w49tkEqEpbse3HhJYr9_x23Sre/view?usp=sharing
+
 Game design document
 
 Video https://drive.google.com/file/d/1eLT4mYib2EbjCBEhwB5YMuqr6oVG3FyY/view
 
 1. Formalni elementi igre
+
 Ime igre: Chibi Duck Saga
 
 Žanr: Platformer 
