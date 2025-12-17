@@ -1,6 +1,6 @@
-https://drive.google.com/file/d/1wDJ0J8w49tkEqEpbse3HhJYr9_x23Sre/view?usp=sharing
-
 Game design document
+
+https://drive.google.com/file/d/1wDJ0J8w49tkEqEpbse3HhJYr9_x23Sre/view?usp=sharing
 
 Video https://drive.google.com/file/d/1eLT4mYib2EbjCBEhwB5YMuqr6oVG3FyY/view
 
@@ -29,8 +29,7 @@ Igra će imati eksterijer, svaki level igre će imati sličan dizajn, odnosno sa
 Svaki level igre će biti posebno kreiran uz pomoć raznih asseta i 3D modela i animacija napravljenih u Blenderu.
 
 Primjeri su prikazani na slikama ispod.
-<img width="1238" height="340" alt="image" src="https://github.com/user-attachments/assets/23e07658-2722-4970-a493-74fca5a545ef" />
-<img width="1238" height="470" alt="image" src="https://github.com/user-attachments/assets/573180ba-1159-4bad-bc02-fd327398a9ea" />
+<img width="968" height="653" alt="image" src="https://github.com/user-attachments/assets/b1cc006a-5c2e-4754-a004-036ce0cba2c0" />
 
 
 Primjeri asseta koji će se koristiti su: [Lowpoly Platformer Kit (Free Asset Pack)](https://sketchfab.com/3d-models/lowpoly-platformer-kit-asset-pack-d4c2f6c5a44748ee8d32040fdd4617b0)
@@ -50,12 +49,14 @@ Igrica će prvenstveno biti pravljena za PC, ali uz manje promjene korisničkog 
 8. Dizajn karaktera 
 U igrici je samo jedan glavni karakter. Karakter je chibi patka. Primjer je dat ispod. Cute Chick
 
-<img width="526" height="613" alt="image" src="https://github.com/user-attachments/assets/0f1f72c7-304d-430d-9b8b-1677a3df2396" />
+<img width="968" height="653" alt="image" src="https://github.com/user-attachments/assets/7d888d9e-fed8-4628-8b7c-6732feb914d6" />
+
 
 
 Ostali prijatelji životinje koje spašava se nalaze ispod:
 
-<img width="926" height="408" alt="image" src="https://github.com/user-attachments/assets/e7752b75-3abc-46c1-a1a6-ec0da6d21230" />
+<img width="968" height="467" alt="image" src="https://github.com/user-attachments/assets/7613fd2b-015c-4212-8ef5-c9ec399e1ac9" />
+
 
 8. Video i audio efekti 
 Pozadinska muzika: 
@@ -72,8 +73,8 @@ Prilikom ulaska u igricu, igrač ima opcije ulaska u igricu, izlazak iz igrice, 
 Primjer korištenja UI elemenata:
 https://www.kenney.nl/assets/ui-pack 
 
-<img width="638" height="380" alt="image" src="https://github.com/user-attachments/assets/0809c514-bd2b-4235-b2bc-2eaf82772b63" />
-<img width="638" height="419" alt="image" src="https://github.com/user-attachments/assets/09a48de9-598e-4138-a75f-f8c1e7d1273e" />
+<img width="664" height="827" alt="image" src="https://github.com/user-attachments/assets/0f2b77c9-70d4-4946-8158-b60086d768fa" />
+
 
 
 10. Plan testiranja 
